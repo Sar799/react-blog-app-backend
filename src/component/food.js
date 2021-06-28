@@ -24,8 +24,8 @@ return(
 <>   
 
 
-         <div className="two">
-            <h1>The Siren</h1>
+<div className="two">
+            <h1><div className="the">The </div>Siren</h1>
             </div>
 
   

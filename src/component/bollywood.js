@@ -20,8 +20,8 @@ return(
  {
  props.courselist.map(item=>(
  <>
-  <div className="two">
-            <h1>The Siren</h1>
+   <div className="two">
+            <h1><div className="the">The </div>Siren</h1>
             </div>
    <div className="three">
           <Route>

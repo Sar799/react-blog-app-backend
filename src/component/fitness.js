@@ -12,7 +12,6 @@ import darrow from './../images/downwordarrow.png'
 
 
 function Hollywood(props){
-    console.log("manali");
     console.log(props);
     return(
         <>
@@ -23,7 +22,7 @@ function Hollywood(props){
      <div className="main8">
 
          <div id="seventyone">
-         <p id="seventytwo">The Siren</p>
+         <p id="seventytwo ">The Siren</p>
          <NavLink to="/bollywoodcopy">
          <img src={Thimage} id="seventythree"/>
          </NavLink>

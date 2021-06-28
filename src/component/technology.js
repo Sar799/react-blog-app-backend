@@ -23,7 +23,9 @@ return(
  props.courselist.map(item=>(
  <>
  <div id="fourtyeight">
- <h1>The Siren</h1>
+ <div className="two">
+            <h1><div className="the">The </div>Siren</h1>
+            </div>
  <Link to="/bollywoodcopy" id="nav">
  <p id="fourtynine">Get Started</p>
  </Link>

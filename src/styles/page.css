@@ -1,4 +1,11 @@
-
+.the{
+    transform: rotate(-90deg);
+    position: relative;
+    right: 55px;
+    top: 30px;
+    font-size: 20px;
+    font-weight: light;
+}
 .main{
     margin-left: 180px;
     margin-right: 180px;
@@ -70,7 +77,7 @@ column-gap: 70px;
 
 .two{
     text-align: center;
-    font-weight: bold;
+    
 }
 .three{
     display: grid;
